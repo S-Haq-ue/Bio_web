@@ -1,0 +1,164 @@
+body {
+    background-color: rgb(237, 245, 242);
+    text-align: center;
+    padding-bottom: 0px;
+}
+
+h3 {
+    color: #2e6f6f;
+}
+
+hr {
+    height: 1px;
+    width: 6%;
+    border: 6px;
+    border-style: dotted;
+    border-color: rgb(135, 195, 187);
+    border-bottom: 0px;
+    margin: 0% 47%;
+}
+
+.header-myOwn {
+    padding: 3% 7% 0% 7%;
+}
+
+#profile {
+    padding: 12% 15% 3% 15%;
+}
+
+.Flname {
+    margin-top: 12px;
+
+}
+
+#projects {
+    /* background-color: blue; */
+    padding: 5% 4% 2% 4%;
+}
+
+#skills {
+    /* background-color: chocolate; */
+    padding: 8% 15% 2% 15%;
+    text-align: center;
+}
+
+footer {
+    background-color: #66BFBF;
+    /* padding: 0%; */
+    color: white;
+    padding: 10px 0px 20px;
+}
+
+.head {
+    background-color: rgb(237, 245, 242);
+    padding: 30px;
+    color: #0a0a0a;
+}
+
+.nav-clr {
+    color: #2e6f6f;
+}
+
+.image {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.sk-image {
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    position: relative;
+    margin: 10px;
+}
+
+.ski {
+    padding: 8px;
+}
+
+.img-right {
+    float: right;
+}
+
+.img-left {
+    float: left;
+}
+
+.skill-container {
+    text-align: start;
+    padding: 10px 0px 0px 50px;
+}
+
+.intro {
+    font-family: "Yellowtail";
+    font-size: 500%;
+    word-spacing: 10%;
+}
+
+.intro-h3 {
+    font-family: "Yellowtail";
+    font-size: 50%;
+    word-spacing: 5%;
+    color: #2e6f6f;
+}
+
+.intro-image-left {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 200px;
+    top: 20px;
+}
+
+.intro-image-right {
+    width: 300px;
+    height: 300px;
+    position: relative;
+    right: 200px;
+    bottom: 70px;
+}
+
+.skills {
+    text-align: center;
+}
+
+.interets {
+    text-align: center;
+}
+
+.ski-h3-interests {
+    margin: 0% 44%;
+}
+
+.card-cl {
+    margin: 10px;
+}
+
+.card-width {
+    width: 100%;
+}
+
+.btn-clr {
+    background-color: #66BFBF;
+    color: #1e5555;
+}
+
+.card-t {
+    color: #479f9f;
+}
+
+.footer {
+    color: #2e6f6f;
+}
+
+.link-foot {
+    color: #2e6f6f;
+    text-decoration: none;
+
+}
+
+.link-footer {
+    padding: 0px 20px;
+    color: #2e6f6f;
+}
